@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="counter1">0</string>
+    <string name="btn_name">Кофе</string>
+    <string name="btn_name3">+100</string>
+    <string name="btn_name2">+10</string>
+    >
+</resources>
